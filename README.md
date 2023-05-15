@@ -1,39 +1,25 @@
-# [Exploiter]Fox-Ex-v2
+# Mass Websites Grabber
 
 
 ## What can it do?
-Dozens of Cyber security platforms had published at the end of last year about dozens of vulnerabilities in WordPress, and they had also published earlier this year about the presence of millions of backdoors in many scripts.
+This project aims to provide an easy-to-use python tool for grabing websites links. This can be useful for data uses as well as pentesting purposes.
 
-This is what prompted us to program {Fox Ex v2} tool, which specializes in hacking test based on the most important vulnerabilities and backdoors that were discovered at the end of last year and this year.
-
+This tool can grab the websites links from all IPs in the web (from 0.0.0.0 to 256.256.256) Or you can grab from list of IPs
 
 
 ---
 
 ## Requirements
 * Python 2.7.14
-* list of websites
-
----
-## How to run
-Open cmd & type
-python crack.py
-python ExV2P.py
-
-username : raizoworm
-password : raizoworm
+* list of IPs (option 2)
 
 **Windows**
 ```
 install python 2.7.14 ( add python to path )
-python crack.py
-python ExV2P.py
+python ReverseRaizo.py
 
-username : raizoworm
-password : raizoworm
 ```
-<img src="https://i.imgur.com/z95pqUV.png">
-<img src="https://i.imgur.com/rT9pV02.png">
+<img src="https://i.imgur.com/gyeQ18Y.png">
 
 
 ## Issues & Features
