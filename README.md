@@ -1,4 +1,4 @@
-# Mass Smtps Checker
+# Mass Website-Grabber
 
 
 ## What can it do?
